@@ -1,0 +1,44 @@
+#platypus {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 8px;
+  margin-top: 5px;
+}
+#fact {
+  font-style: italic;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px;
+}
+
+.bolder {
+  font-weight: bold;
+}
+
+#bullets {
+  list-style: none;
+}
+
+#wrapper {
+  border: 1px black solid;
+  background-color: #0e87cc;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: auto;
+  margin-top: auto;
+  width: 300px;
+  box-shadow: inset 0 0 5px 2px #02066f;
+  border-radius: 15px;
+}
+
+#inner_div {
+  border: 1px black solid;
+  margin-bottom: 10px;
+}
+#info {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 10px;
+}
